@@ -7,22 +7,24 @@ The CEO, in particular, has given a ballpark of the target lead conversion rate 
 Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted. 
 
 ## Steps Followed
-Reading Data
-Cleaning Data
-EDA
-Creating Dummy
-Splitting data into train and test set
-Building Model
-Making Predictions
-Model Evaluation
-ROC Curve
-Prediction on test set
-Precision- Recall
+|1. |Reading Data|
+|2. |Cleaning Data|
+|3. |EDA|
+|4. |Creating Dummy|
+|5. |Splitting data into train and test set|
+|6. |Building Model|
+|7. |Making Predictions|
+|8. |Model Evaluation|
+|9. |ROC Curve|
+|10. |Prediction on test set|
+|11. |Precision- Recall|
 
 ## Details of files uploaded
-Lead Score Case Study Rupak Akshata .ipynb :Python file showing coding and data analysis
-Assignment Subjective Questions.pdf : Some subjective questions answered
-Lead Score Case Study PPT.pdf : Final Presentation
-Leads.csv : Data file
-Leads Data Dictionary.xlsx : Data Dictionary
-Lead Score Summary.pdf : Summary 
+|Filename| Description|
+| ------ | ---------- |
+|Lead Score Case Study Rupak Akshata .ipynb| Python file showing coding and data analysis|
+|Assignment Subjective Questions.pdf | Some subjective questions answered|
+|Lead Score Case Study PPT.pdf | Final Presentation|
+|Leads.csv | Data file |
+|Leads Data Dictionary.xlsx | Data Dictionary |
+|Lead Score Summary.pdf | Summary |
